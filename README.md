@@ -2,8 +2,8 @@
 POTENTIAL PHYSICIANS FOR MARKETING ON SOCIAL MEDIA
 
 Tools: 
-Twitter API
-R and its packages
-Power BI
+Twitter API,
+R and its packages,
+Power BI,
 MongoDB
 
